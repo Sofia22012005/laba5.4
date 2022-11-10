@@ -1,0 +1,4 @@
+﻿  laba5.4.cpp
+C:\Users\Користувач\Desktop\лаба3ап\laba5.4\laba5.4\laba5.4.cpp(32,24): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Користувач\Desktop\лаба3ап\laba5.4\laba5.4\laba5.4.cpp(40,24): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  laba5.4.vcxproj -> C:\Users\Користувач\Desktop\лаба3ап\laba5.4\x64\Debug\laba5.4.exe
